@@ -1,6 +1,6 @@
 # What´s the project
 - The idea of this project is to mock a calendar application, in which the user can register, retrieve and delete events.
-- Be sure to have a data.txt file in the same directory your final_code.c file is.
+- Be sure to have a database.txt file in the same directory your final_code.c file is.
 
 # Motivation
 - The mais purpose of the program is to practice everything it was learnt about C language. This includes working with functions, pointers, strings, chars and new types definition.
